@@ -7,32 +7,27 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a fourth-year Ph. D student from Business of School, Central South University. My research interests focus on Educational Data Mining (e.g., Cognitive Diagnosis, Exercise Recommendation, Learning Team Formation, etc.) and Tourism Recommender Systesms (e.g., POI Recommendaion, Trip Recommendation, Itinerary Modificaion/Edit, etc.)
+I am a fourth-year Ph. D student from Business of School, Central South University. My research interests focus on Educational Data Mining (e.g., Cognitive Diagnosis, Exercise Recommendation, Learning Team Formation, etc.) and Tourism Recommender Systesms (e.g., POI Recommendaion, Trip Recommendation, Itinerary Modificaion/Edit, etc.)
 
-I am very fourtunate to be supervised by [Prof. Hongyu Zhang](https://scholar.google.com.hk/citations?user=B1gqJ8UAAAAJ&hl=zh-CN&oi=sra) from School of Business, Central South University. Previously, I obtained the M.S degree from College of Information Science and Engineering, Hunan Normal University, under the supervision of [Prof. Hua Ma](https://ieeexplore.ieee.org/author/37086381334) in 2022. I received the B.S. degree in integrated circuit design and integrated systems from Hangzhou Dianzi University, Hangzhou, China, in 2017.
+Currently,I am a CSC-funded visting student co-supervised by [Prof. Zhu Sun](https://sites.google.com/view/zhusun/home) from Information Systems Technology and Design (ISTD), Singapore University of Technology and Design (SUTD), and [Prof. Yunshan Ma](https://mysbupt.github.io) from School of Computing and Information Systems, Singapore Management University. I am very fourtunate to be supervised by [Prof. Hongyu Zhang](https://scholar.google.com.hk/citations?user=B1gqJ8UAAAAJ&hl=zh-CN&oi=sra) from School of Business, Central South University. Previously, I obtained the M.S degree from College of Information Science and Engineering, Hunan Normal University, under the supervision of [Prof. Hua Ma](https://ieeexplore.ieee.org/author/37086381334) in 2022. I received the B.S. degree in integrated circuit design and integrated systems from Hangzhou Dianzi University, Hangzhou, China, in 2017.
 
 
-
-Site-wide configuration
+News
 ------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
+TBD
 
-Create content & metadata
+Professional Services
 ------
-For site content, there is one Markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a Markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each Markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
+Reviewer of SMC-S (IEEE Transactions on Systems, Man, Cybernetics: Systems), TCSS (IEEE Transacations on Computational Social Systems), AAAI UC and CSCWD.
 
-**Markdown generator**
 
-The repository includes [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
-) that converts a CSV containing structured data about talks or presentations into individual Markdown files that will be properly formatted for the Academic Pages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the Markdown files, then commit and push them to the GitHub repository.
-
-How to edit your site's GitHub repository
+Education Background
 ------
-Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and Markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
+2025.8-present: Visiting Ph.D in Information Systems Technology and Design, Singapore University of Technology and Design (Supervisors: [Prof. Zhu Sun](https://sites.google.com/view/zhusun/home) and [Prof. Yunshan Ma](https://mysbupt.github.io))
 
-Example: editing a Markdown file for a talk
-![Editing a Markdown file for a talk](/images/editing-talk.png)
+2022.9-present: Ph.D in Management Science and Engineering, School of Business, Central South University (Supervisor: [Prof. Hongyu Zhang](https://scholar.google.com.hk/citations?user=B1gqJ8UAAAAJ&hl=zh-CN&oi=sra))
 
-For more info
-------
-More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+2019.9-2022.7: M.S in Soft Engineering, College of Information Science and Engineering, Hunan Normal University (Supervisor: [Prof. Hua Ma](https://ieeexplore.ieee.org/author/37086381334))
+
+2013.9-2017.7: B.S in Integrated Circuit Design and Integrated Systems, Hangzhou Dianzi University
+
