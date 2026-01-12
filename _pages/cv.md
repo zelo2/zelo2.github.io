@@ -11,54 +11,21 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
-
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
-
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Visiting Ph.D., Information Systems Technology and Design, Singapore University of Technology and Design, 2025.8–present (Supervisors: Prof. Zhu Sun, Prof. Yunshan Ma)
+* Ph.D., Management Science and Engineering, School of Business, Central South University, 2022.9–present (Supervisor: Prof. Hongyu Zhang)
+* M.S., Software Engineering, College of Information Science and Engineering, Hunan Normal University, 2019.9–2022.7 (Supervisor: Prof. Hua Ma)
+* B.S., Integrated Circuit Design and Integrated Systems, Hangzhou Dianzi University, 2013.9–2017.7
 
 Publications
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
+
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Reviewer: The Web Conference (WWW) 2026
+* Reviewer: IEEE Transactions on Computational Social Systems (TCSS)
+* Reviewer: IEEE Transactions on Systems, Man, and Cybernetics: Systems (SMC-S)
+* Reviewer: IEEE International Conference on Computer Supported Cooperative Work in Design (CSCWD)
+* Reviewer: AAAI UC
