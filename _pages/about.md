@@ -14,19 +14,19 @@ Currently, I am a CSC-funded visting student co-supervised by [Prof. Zhu Sun](ht
 
 News
 ------
-- [Feb 2025] Collaborative allocation optimization paper published in IEEE Transactions on Computational Social Systems.
-- [Feb 2025] Road trip attraction recommendation paper published in International Journal of Intelligent Computing and Cybernetics.
-- [May 2024] City road trip route planning paper accepted to CSCWD 2024.
-- [May 2024] Collaborative route planning paper published in IEEE Transactions on Computational Social Systems.
-- [Oct 2023] Leader-centered learning team formation paper published in IEEE Systems, Man, and Cybernetics Magazine.
-- [Sep 2023] Neutrosophic cognitive diagnosis paper published in IEEE Transactions on Learning Technologies.
-- [Jul 2023] Fuzzy cloud cognitive diagnosis paper published in Soft Computing.
-- [Nov 2022] 软件众包任务分配研究发表于《国防科技大学学报》.
-- [May 2022] Exercise recommendation paper presented at CSCWD 2022.
-- [May 2022] Collaborative prediction of examinee performance paper presented at CSCWD 2022.
-- [Mar 2022] Cloud service recommendation paper published in Journal of Intelligent & Fuzzy Systems.
-- [Jan 2022] Learning team formation paper published in IEEE Transactions on Computational Social Systems.
-- [Jun 2021] 认知诊断模型综述发表于《计算机技术与发展》.
+- [Feb 2025] Our paper, "Improving road trip attraction recommendations by resolving conflicting preferences: a knowledge-enhanced non-compensatory group decision approach" is accepted by "International Journal of Intelligent Computing and Cybernetics". Congratulations to all co-authors!
+- [Feb 2025] Our paper, "Collaborative Allocation Optimization of Production Line Workers Based on Multidimensional Feature Measurement and E-CARGO Model" is accepted by "IEEE Transactions on Computational Social Systems". Congratulations to all co-authors!
+- [May 2024] Our paper, "Route Planning of City Road Trips Meeting Subjective Preferences and Objective Constraints" is accepted by "27th International Conference on Computer Supported Cooperative Work in Design (CSCWD)". Congratulations to all co-authors!
+- [May 2024] Our paper, "Collaborative route planning of road trips in regional central cities of China: An approach based on E-CARGO model" is accepted by "IEEE Transactions on Computational Social Systems". Congratulations to all co-authors!
+- [Oct 2023] Our paper, "Universal optimization framework: Leader-centered learning team formation based on fuzzy evaluations of learners and E-CARGO" is accepted by "IEEE Systems, Man, and Cybernetics Magazine". Congratulations to all co-authors!
+- [Sep 2023] Our paper, "Predicting student performance in future exams via neutrosophic cognitive diagnosis in personalized e-learning environment" is accepted by "IEEE Transactions on Learning Technologies". Congratulations to all co-authors!
+- [Jul 2023] Our paper, "Predicting examinee performance based on a fuzzy cloud cognitive diagnosis framework in e-learning environment" is accepted by "Soft Computing". Congratulations to all co-authors!
+- [Nov 2022] Our paper, "支持工人能力模糊度量和角色协同的软件众包任务分配" is accepted by "Journal of National University of Defense Technology". Congratulations to all co-authors!
+- [May 2022] Our paper, "Exercise recommendation based on cognitive diagnosis and neutrosophic set" is accepted by "25th International Conference on Computer Supported Cooperative Work in Design (CSCWD)". Congratulations to all co-authors!
+- [May 2022] Our paper, "Collaborative prediction of examinee performance based on fuzzy cognitive diagnosis via cloud model" is accepted by "25th International Conference on Computer Supported Cooperative Work in Design (CSCWD)". Congratulations to all co-authors!
+- [Mar 2022] Our paper, "Cloud service recommendation for small and medium-sized enterprises: a context-aware group decision making approach" is accepted by "Journal of Intelligent & Fuzzy Systems". Congratulations to all co-authors!
+- [Jan 2022] Our paper, "Collaborative optimization of learning team formation based on multidimensional characteristics and constraints modeling: A team leader-centered approach via E-CARGO" is accepted by "IEEE Transactions on Computational Social Systems". Congratulations to all co-authors!
+- [Jun 2021] Our paper, "面向个性化学习的认知诊断模型及其应用综述" is accepted by "计算机技术与发展". Congratulations to all co-authors!
 
 Professional Services
 ------
