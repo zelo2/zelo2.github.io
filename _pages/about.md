@@ -27,6 +27,7 @@ News
 - [Mar 2022] Our paper, "Cloud service recommendation for small and medium-sized enterprises: a context-aware group decision making approach" is accepted by <i>Journal of Intelligent & Fuzzy Systems</i> (J. Intell. Fuzzy Syst.). Congratulations to all co-authors!
 - [Jan 2022] Our paper, "Collaborative optimization of learning team formation based on multidimensional characteristics and constraints modeling: A team leader-centered approach via E-CARGO" is accepted by <i>IEEE Transactions on Computational Social Systems</i> (TCSS). Congratulations to all co-authors!
 - [Jun 2021] Our paper, "面向个性化学习的认知诊断模型及其应用综述" is accepted by <i>计算机技术与发展</i> (Comput. Technol. Dev.). Congratulations to all co-authors!
+- [Jan 2026] Our paper, "Exploiting Hierarchical Category Information to Improve Next Point-of-Interest Recommendation via Hyperbolic Graph Convolution Network" is accepted by <i>IEEE Transactions on Systems, Man, and Cybernetics: Systems</i> (TSMC-S). Congratulations to all co-authors!
 
 Professional Services
 ------
