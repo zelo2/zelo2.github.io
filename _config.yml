@@ -23,7 +23,7 @@ repository               : "zelo2/zelo2.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "images/personal_photo/hzx.png"
   name             : "Zhuoxuan Huang"
   pronouns         : # example: "she/her"  
   bio              : "Yesterday is history, tomorrow is a mystery."
