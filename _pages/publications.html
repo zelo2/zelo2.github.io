@@ -26,8 +26,8 @@ author_profile: true
       {% if post.citation %}
         <p>
           {{ post.citation | markdownify | remove: "<p>" | remove: "</p>" }}
-          {% if post.paperurl %}<a href="{{ post.paperurl }}">[Paper]</a>{% endif %}
-          {% if post.bibtexurl %} <a href="{{ post.bibtexurl }}">[BibTeX]</a>{% endif %}
+          {% if post.paperurl %} <a href="{{ post.paperurl }}">Paper</a>{% endif %}
+          {% if post.bibtexurl %} <a href="{{ post.bibtexurl }}">BibTeX</a>{% endif %}
         </p>
       {% endif %}
     {% endfor %}
@@ -37,8 +37,8 @@ author_profile: true
     {% if post.citation %}
       <p>
         {{ post.citation | markdownify | remove: "<p>" | remove: "</p>" }}
-        {% if post.paperurl %}<a href="{{ post.paperurl }}">[Paper]</a>{% endif %}
-        {% if post.bibtexurl %} <a href="{{ post.bibtexurl }}">[BibTeX]</a>{% endif %}
+        {% if post.paperurl %} <a href="{{ post.paperurl }}">Paper</a>{% endif %}
+        {% if post.bibtexurl %} <a href="{{ post.bibtexurl }}">BibTeX</a>{% endif %}
       </p>
     {% endif %}
   {% endfor %}
