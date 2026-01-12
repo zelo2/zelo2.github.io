@@ -5,6 +5,7 @@ category: journals
 permalink: /publication/2021-cognitive-diagnosis-models-overview
 date: 2021-06-01
 venue: "计算机技术与发展"
+paperurl: "https://scholar.google.com/scholar?q=%E9%9D%A2%E5%90%91%E4%B8%AA%E6%80%A7%E5%8C%96%E5%AD%A6%E4%B9%A0%E7%9A%84%E8%AE%A4%E7%9F%A5%E8%AF%8A%E6%96%AD%E6%A8%A1%E5%9E%8B%E5%8F%8A%E5%85%B6%E5%BA%94%E7%94%A8%E7%BB%BC%E8%BF%B0"
 excerpt: '面向个性化学习的认知诊断模型综述。'
 citation: '马华, **黄卓轩**, 唐文胜. 面向个性化学习的认知诊断模型及其应用综述. <i>计算机技术与发展</i> (Comput. Technol. Dev.), 2021.'
 ---

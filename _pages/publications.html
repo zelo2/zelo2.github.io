@@ -11,9 +11,9 @@ author_profile: true
 
 {% include base_path %}
 
-<!-- New style rendering if publication categories are defined -->
+<!-- Render publications as plain citations grouped by category -->
 {% if site.publication_category %}
-  {% for category in site.publication_category  %}
+  {% for category in site.publication_category %}
     {% assign title_shown = false %}
     {% for post in site.publications reversed %}
       {% if post.category != category[0] %}
@@ -23,14 +23,29 @@ author_profile: true
         <h2>{{ category[1].title }}</h2><hr />
         {% assign title_shown = true %}
       {% endunless %}
-      {% include archive-single.html %}
+      {% if post.citation %}
+        <p>{{ post.citation | markdownify | remove: "<p>" | remove: "</p>" }}</p>
+      {% endif %}
+      {% if post.paperurl and post.bibtexurl %}
+        <p><a href="{{ post.paperurl }}">Paper</a> | <a href="{{ post.bibtexurl }}">BibTeX</a></p>
+      {% elsif post.paperurl %}
+        <p><a href="{{ post.paperurl }}">Paper</a></p>
+      {% elsif post.bibtexurl %}
+        <p><a href="{{ post.bibtexurl }}">BibTeX</a></p>
+      {% endif %}
     {% endfor %}
   {% endfor %}
 {% else %}
   {% for post in site.publications reversed %}
-    {% include archive-single.html %}
+    {% if post.citation %}
+      <p>{{ post.citation | markdownify | remove: "<p>" | remove: "</p>" }}</p>
+    {% endif %}
+    {% if post.paperurl and post.bibtexurl %}
+      <p><a href="{{ post.paperurl }}">Paper</a> | <a href="{{ post.bibtexurl }}">BibTeX</a></p>
+    {% elsif post.paperurl %}
+      <p><a href="{{ post.paperurl }}">Paper</a></p>
+    {% elsif post.bibtexurl %}
+      <p><a href="{{ post.bibtexurl }}">BibTeX</a></p>
+    {% endif %}
   {% endfor %}
 {% endif %}
-
-
-
