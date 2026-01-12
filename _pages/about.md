@@ -14,6 +14,7 @@ Currently, I am a CSC-funded visting student co-supervised by [Prof. Zhu Sun](ht
 
 News
 ------
+- [Jan 2026] Our paper, "Exploiting Hierarchical Category Information to Improve Next Point-of-Interest Recommendation via Hyperbolic Graph Convolution Network" is accepted by <i>IEEE Transactions on Systems, Man, and Cybernetics: Systems</i> (TSMC-S). Congratulations to all co-authors!
 - [Feb 2025] Our paper, "Improving road trip attraction recommendations by resolving conflicting preferences: a knowledge-enhanced non-compensatory group decision approach" is accepted by <i>International Journal of Intelligent Computing and Cybernetics</i> (IJICC). Congratulations to all co-authors!
 - [Feb 2025] Our paper, "Collaborative Allocation Optimization of Production Line Workers Based on Multidimensional Feature Measurement and E-CARGO Model" is accepted by <i>IEEE Transactions on Computational Social Systems</i> (TCSS). Congratulations to all co-authors!
 - [May 2024] Our paper, "Route Planning of City Road Trips Meeting Subjective Preferences and Objective Constraints" is accepted by <i>IEEE International Conference on Computer Supported Cooperative Work in Design</i> (CSCWD). Congratulations to all co-authors!
@@ -21,12 +22,12 @@ News
 - [Oct 2023] Our paper, "Universal optimization framework: Leader-centered learning team formation based on fuzzy evaluations of learners and E-CARGO" is accepted by <i>IEEE Systems, Man, and Cybernetics Magazine</i> (IEEE SMC Mag.). Congratulations to all co-authors!
 - [Sep 2023] Our paper, "Predicting student performance in future exams via neutrosophic cognitive diagnosis in personalized e-learning environment" is accepted by <i>IEEE Transactions on Learning Technologies</i> (TLT). Congratulations to all co-authors!
 - [Jul 2023] Our paper, "Predicting examinee performance based on a fuzzy cloud cognitive diagnosis framework in e-learning environment" is accepted by <i>Soft Computing</i> (Soft Comput.). Congratulations to all co-authors!
-- [Nov 2022] Our paper, "支持工人能力模糊度量和角色协同的软件众包任务分配" is accepted by <i>Journal of National University of Defense Technology</i> (J. Natl. Univ. Def. Technol.). Congratulations to all co-authors!
+- [Nov 2022] Our paper, "Software crowdsourcing task allocation supporting fuzzy ability measurement and role coordination (支持工人能力模糊度量和角色协同的软件众包任务分配)" is accepted by <i>Journal of National University of Defense Technology</i> (J. Natl. Univ. Def. Technol.; 国防科技大学学报). Congratulations to all co-authors!
 - [May 2022] Our paper, "Exercise recommendation based on cognitive diagnosis and neutrosophic set" is accepted by <i>IEEE International Conference on Computer Supported Cooperative Work in Design</i> (CSCWD). Congratulations to all co-authors!
 - [May 2022] Our paper, "Collaborative prediction of examinee performance based on fuzzy cognitive diagnosis via cloud model" is accepted by <i>IEEE International Conference on Computer Supported Cooperative Work in Design</i> (CSCWD). Congratulations to all co-authors!
 - [Mar 2022] Our paper, "Cloud service recommendation for small and medium-sized enterprises: a context-aware group decision making approach" is accepted by <i>Journal of Intelligent & Fuzzy Systems</i> (J. Intell. Fuzzy Syst.). Congratulations to all co-authors!
 - [Jan 2022] Our paper, "Collaborative optimization of learning team formation based on multidimensional characteristics and constraints modeling: A team leader-centered approach via E-CARGO" is accepted by <i>IEEE Transactions on Computational Social Systems</i> (TCSS). Congratulations to all co-authors!
-- [Jun 2021] Our paper, "面向个性化学习的认知诊断模型及其应用综述" is accepted by <i>计算机技术与发展</i> (Comput. Technol. Dev.). Congratulations to all co-authors!
+- [Jun 2021] Our paper, "Survey of cognitive diagnosis models for personalized learning (面向个性化学习的认知诊断模型及其应用综述)" is accepted by <i>Computer Technology and Development</i> (计算机技术与发展). Congratulations to all co-authors!
 - [Jan 2026] Our paper, "Exploiting Hierarchical Category Information to Improve Next Point-of-Interest Recommendation via Hyperbolic Graph Convolution Network" is accepted by <i>IEEE Transactions on Systems, Man, and Cybernetics: Systems</i> (TSMC-S). Congratulations to all co-authors!
 
 Professional Services
