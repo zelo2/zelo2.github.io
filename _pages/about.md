@@ -30,7 +30,7 @@ News
 
 Professional Services
 ------
-Reviewer of SMC-S (IEEE Transactions on Systems, Man, Cybernetics: Systems), TCSS (IEEE Transacations on Computational Social Systems), AAAI UC and CSCWD.
+Reviewer: The Web Conference (WWW) 2026; TCSS (IEEE Transactions on Computational Social Systems); SMC-S (IEEE Transactions on Systems, Man, Cybernetics: Systems); AAAI UC; CSCWD.
 
 
 Education Background
