@@ -14,7 +14,19 @@ Currently, I am a CSC-funded visting student co-supervised by [Prof. Zhu Sun](ht
 
 News
 ------
-TBD
+- [Feb 2025] Collaborative allocation optimization paper published in IEEE Transactions on Computational Social Systems.
+- [Feb 2025] Road trip attraction recommendation paper published in International Journal of Intelligent Computing and Cybernetics.
+- [May 2024] City road trip route planning paper accepted to CSCWD 2024.
+- [May 2024] Collaborative route planning paper published in IEEE Transactions on Computational Social Systems.
+- [Oct 2023] Leader-centered learning team formation paper published in IEEE Systems, Man, and Cybernetics Magazine.
+- [Sep 2023] Neutrosophic cognitive diagnosis paper published in IEEE Transactions on Learning Technologies.
+- [Jul 2023] Fuzzy cloud cognitive diagnosis paper published in Soft Computing.
+- [Nov 2022] 软件众包任务分配研究发表于《国防科技大学学报》.
+- [May 2022] Exercise recommendation paper presented at CSCWD 2022.
+- [May 2022] Collaborative prediction of examinee performance paper presented at CSCWD 2022.
+- [Mar 2022] Cloud service recommendation paper published in Journal of Intelligent & Fuzzy Systems.
+- [Jan 2022] Learning team formation paper published in IEEE Transactions on Computational Social Systems.
+- [Jun 2021] 认知诊断模型综述发表于《计算机技术与发展》.
 
 Professional Services
 ------
@@ -30,4 +42,3 @@ Education Background
 2019.9-2022.7: M.S in Soft Engineering, College of Information Science and Engineering, Hunan Normal University (Supervisor: [Prof. Hua Ma](https://ieeexplore.ieee.org/author/37086381334))
 
 2013.9-2017.7: B.S in Integrated Circuit Design and Integrated Systems, Hangzhou Dianzi University
-
