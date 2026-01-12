@@ -3,7 +3,7 @@ title: "Collaborative Allocation Optimization of Production Line Workers Based o
 collection: publications
 category: journals
 permalink: /publication/2025-collaborative-allocation-optimization
-date: 2025-02-01
+date: 2025-11-21
 venue: "IEEE Transactions on Computational Social Systems"
 paperurl: "https://scholar.google.com/scholar?q=Collaborative%20Allocation%20Optimization%20of%20Production%20Line%20Workers%20Based%20on%20Multidimensional%20Feature%20Measurement%20and%20E-CARGO%20Model"
 excerpt: 'E-CARGO-based workforce allocation for production lines.'
