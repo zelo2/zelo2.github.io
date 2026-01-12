@@ -6,7 +6,7 @@ permalink: /publication/2022-exercise-recommendation-cognitive-diagnosis
 date: 2022-05-15
 venue: "25th International Conference on Computer Supported Cooperative Work in Design (CSCWD)"
 excerpt: 'CSCWD 2022 paper on exercise recommendation using cognitive diagnosis with neutrosophic sets.'
-citation: 'Hua Ma, **Zhuoxuan Huang**, Wensheng Tang, Xuxiang Zhang*. Exercise recommendation based on cognitive diagnosis and neutrosophic set. <i>IEEE International Conference on Computer Supported Cooperative Work in Design</i> (CSCWD), 2022.'
+citation: 'Hua Ma, **Zhuoxuan Huang**, Wensheng Tang, Xuxiang Zhang. Exercise recommendation based on cognitive diagnosis and neutrosophic set. <i>IEEE International Conference on Computer Supported Cooperative Work in Design</i> (CSCWD), 2022.'
 ---
 
 Builds an exercise recommendation approach leveraging cognitive diagnosis and neutrosophic sets.
