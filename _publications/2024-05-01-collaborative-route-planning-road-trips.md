@@ -20,7 +20,7 @@ keywords:
   - E-CARGO model
   - Regional central city
   - Road trip route planning
-citation: 'H. Zhang, **Z. Huang**, Z. Jiang, H. Ma, H. Zhu. "Collaborative Route Planning of Road Trips in Regional Central Cities of China: An Approach Based on E-CARGO Model." <i>IEEE Transactions on Computational Social Systems</i> (TCSS), 11(5): 6347-6365, Oct 2024. doi:10.1109/TCSS.2024.3389773.'
+citation: 'Hongyu Zhang, **Zhuoxuan Huang**, Zixu Jiang, Hua Ma, Haibin Zhu. "Collaborative Route Planning of Road Trips in Regional Central Cities of China: An Approach Based on E-CARGO Model." <i>IEEE Transactions on Computational Social Systems</i> (TCSS), 11(5): 6347-6365, Oct 2024. doi:10.1109/TCSS.2024.3389773.'
 ---
 
 Applies the E-CARGO model to collaborative route planning for regional road trips, addressing preferences across multiple travelers.

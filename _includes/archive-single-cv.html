@@ -18,7 +18,7 @@
       {% if post.citation %}
         <p class="archive__item-excerpt" itemprop="description">
           {{ post.citation | markdownify | remove: "<p>" | remove: "</p>" }}
-          {% if post.paperurl %}<a href="{{ post.paperurl }}">Paper</a>{% endif %}
+          {% if post.paperurl %}<a href="{{ post.paperurl }}">[paper]</a>{% endif %}
           {% if post.bibtexurl %} <a href="{{ post.bibtexurl }}">BibTeX</a>{% endif %}
         </p>
       {% else %}
