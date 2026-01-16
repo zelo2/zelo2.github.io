@@ -14,6 +14,7 @@ Currently, I am a CSC-funded visting student co-supervised by [Prof. Zhu Sun](ht
 
 News
 ------
+- 🎉 [Jan 2026] Our paper, "iTIMO: An LLM-empowered Synthesis Dataset for Travel Itinerary Modification" is now on arXiv ([arXiv](https://arxiv.org/abs/2601.10609)).
 - 🎉 [Jan 2026] Our paper, "Exploiting Hierarchical Category Information to Improve Next Point-of-Interest Recommendation via Hyperbolic Graph Convolution Network" is accepted by <i>IEEE Transactions on Systems, Man, and Cybernetics: Systems</i> (TSMC-S). Congratulations to all co-authors!
 - 🎉 [Dec 2025] Our paper, "Improving road trip attraction recommendations by resolving conflicting preferences: a knowledge-enhanced non-compensatory group decision approach" is accepted by <i>International Journal of Intelligent Computing and Cybernetics</i> (IJICC). Congratulations to all co-authors!
 - 🎉 [Nov 2025] Our paper, "Collaborative Allocation Optimization of Production Line Workers Based on Multidimensional Feature Measurement and E-CARGO Model" is accepted by <i>IEEE Transactions on Computational Social Systems</i> (TCSS). Congratulations to all co-authors!
