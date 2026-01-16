@@ -1,5 +1,5 @@
 ---
-title: "Predicting student performance in future exams via neutrosophic cognitive diagnosis in personalized e-learning environment"
+title: "Predicting Student Performance in Future Exams via Neutrosophic Cognitive Diagnosis in Personalized E-Learning Environment"
 collection: publications
 category: journals
 permalink: /publication/2023-predicting-student-performance-neutrosophic
@@ -19,7 +19,7 @@ keywords:
   - Neutrosophic sets (NSs)
   - Personalized learning
   - Predicting student performance
-citation: 'Hua Ma, **Zhuoxuan Huang**, Wensheng Tang, Haibin Zhu, Hongyu Zhang, Jingze Li. "Predicting Student Performance in Future Exams via Neutrosophic Cognitive Diagnosis in Personalized E-Learning Environment." <i>IEEE Transactions on Learning Technologies</i> (TLT), 16(5): 680-693, Oct 2023. doi:10.1109/TLT.2023.3240931.'
+citation: 'Hua Ma, **Zhuoxuan Huang**, Wensheng Tang, Haibin Zhu, Hongyu Zhang, Jingze Li. Predicting Student Performance in Future Exams via Neutrosophic Cognitive Diagnosis in Personalized E-Learning Environment. <i>IEEE Transactions on Learning Technologies</i> (TLT), 16(5): 680-693, Oct 2023. doi:10.1109/TLT.2023.3240931.'
 ---
 
 Uses neutrosophic cognitive diagnosis to forecast students' future exam performance in personalized e-learning settings.
