@@ -18,12 +18,12 @@
       {% if post.citation %}
         <p class="archive__item-excerpt" itemprop="description">{{ post.citation | markdownify | remove: "<p>" | remove: "</p>" }}</p>
       {% endif %}
-      {% if post.paperurl and post.bibtexurl %}
-        <p><a href="{{ post.paperurl }}">[paper]</a> | <a href="{{ post.bibtexurl }}">BibTeX</a></p>
-      {% elsif post.paperurl %}
-        <p><a href="{{ post.paperurl }}">[paper]</a></p>
-      {% elsif post.bibtexurl %}
-        <p><a href="{{ post.bibtexurl }}">BibTeX</a></p>
+      {% if post.paperurl or post.codeurl or post.bibtexurl %}
+        <p>
+          {% if post.paperurl %}<a href="{{ post.paperurl }}">[paper]</a>{% endif %}
+          {% if post.codeurl %}{% if post.paperurl %} | {% endif %}<a href="{{ post.codeurl }}">[code]</a>{% endif %}
+          {% if post.bibtexurl %}{% if post.paperurl or post.codeurl %} | {% endif %}<a href="{{ post.bibtexurl }}">BibTeX</a>{% endif %}
+        </p>
       {% endif %}
     {% else %}
       {% if include.type == "grid" and teaser %}

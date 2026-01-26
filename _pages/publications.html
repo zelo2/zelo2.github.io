@@ -27,6 +27,7 @@ author_profile: true
         <p>
           {{ post.citation | markdownify | remove: "<p>" | remove: "</p>" }}
           {% if post.paperurl %} <a href="{{ post.paperurl }}">[paper]</a>{% endif %}
+          {% if post.codeurl %} <a href="{{ post.codeurl }}">[code]</a>{% endif %}
           {% if post.bibtexurl %} <a href="{{ post.bibtexurl }}">BibTeX</a>{% endif %}
         </p>
       {% endif %}
@@ -38,6 +39,7 @@ author_profile: true
       <p>
         {{ post.citation | markdownify | remove: "<p>" | remove: "</p>" }}
         {% if post.paperurl %} <a href="{{ post.paperurl }}">[paper]</a>{% endif %}
+        {% if post.codeurl %} <a href="{{ post.codeurl }}">[code]</a>{% endif %}
         {% if post.bibtexurl %} <a href="{{ post.bibtexurl }}">BibTeX</a>{% endif %}
       </p>
     {% endif %}
