@@ -14,7 +14,7 @@ Currently, I am a CSC-funded visting student co-supervised by [Prof. Zhu Sun](ht
 
 News
 ------
-- 🎉 [Apr 2026] Our paper, "FashionStylist: An Expert Knowledge-enhanced Multimodal Dataset for Fashion Understanding", is available on <a href="https://arxiv.org/abs/2604.09249">arXiv</a>. Congratulations to all co-authors!
+- 🎉 [Apr 2026] Our paper, "FashionStylist: An Expert Knowledge-enhanced Multimodal Dataset for Fashion Understanding", is available on <a href="https://arxiv.org/abs/2604.09249">arXiv</a>.
 - 🎉 [Apr 2026] Our paper, "iTIMO: An LLM-empowered Synthesis Dataset for Travel Itinerary Modification", is accepted by <i>SIGIR 2026 Resource Track</i>. Congratulations to all co-authors!
 - 🎉 [Jan 2026] Our paper, "Exploiting Hierarchical Category Information to Improve Next Point-of-Interest Recommendation via Hyperbolic Graph Convolution Network", is online at <i>IEEE Transactions on Systems, Man, and Cybernetics: Systems</i> (TSMC-S). Congratulations to all co-authors!
 - 🎉 [Dec 2025] Our paper, "Improving Road Trip Attraction Recommendations by Resolving Conflicting Preferences: A Knowledge-Enhanced Non-Compensatory Group Decision Approach", is accepted by <i>International Journal of Intelligent Computing and Cybernetics</i> (IJICC). Congratulations to all co-authors!
