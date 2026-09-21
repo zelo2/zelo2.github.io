@@ -8,11 +8,12 @@ This repo hosts the GitHub Pages site for Zhuoxuan Huang (zelo2.github.io), buil
 - Auto-generated collections for publications under `_publications/`.
 
 ## Local preview
-1) Install Ruby + Bundler + Node. On macOS:
+1) Install Ruby 3.3 and use it in your current terminal. On macOS:
    ```bash
-   brew install ruby node
-   gem install bundler
+   brew install ruby@3.3
+   export PATH="$(brew --prefix ruby@3.3)/bin:$PATH"
    ```
+   Ruby includes Bundler. Run the `export` command in each new terminal before using `bundle`, or add it to your shell configuration.
 2) Install gems locally:
    ```bash
    bundle config set --local path 'vendor/bundle'
