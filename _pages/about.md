@@ -15,6 +15,7 @@ Currently, I am a CSC-funded visting student co-supervised by [Prof. Zhu Sun](ht
 
 News
 ------
+- 🎉 [Nov 2026] Our paper, "OCAP: Online Collaborative Adapter Personalization for Personalized Mental-Health Monitoring", is accepted by <i>KDD 2027 AI4Science Track</i> as an <strong>Oral Presentation (6.1% of all submissions)</strong>. Congratulations to all co-authors!
 - 🎉 [Sep 2026] Our paper, "FashionStylist: An Expert Knowledge-enhanced Multimodal Dataset for Fashion Understanding", is accepted by <i>SIGIR-AP 2026</i>. Congrats to all co-authors! <a href="https://arxiv.org/abs/2604.09249">[arXiv]</a>
 - 🎉 [Apr 2026] Our paper, "iTIMO: An LLM-empowered Synthesis Dataset for Travel Itinerary Modification", is accepted by <i>SIGIR 2026 Resource Track</i>. Congratulations to all co-authors!
 - 🎉 [Jan 2026] Our paper, "Exploiting Hierarchical Category Information to Improve Next Point-of-Interest Recommendation via Hyperbolic Graph Convolution Network", is online at <i>IEEE Transactions on Systems, Man, and Cybernetics: Systems</i> (TSMC-S). Congratulations to all co-authors!
