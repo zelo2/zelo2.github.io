@@ -13,31 +13,6 @@ Currently, I am a CSC-funded visting student co-supervised by [Prof. Zhu Sun](ht
 
 <p style="color: red;"><strong>I expect to graduate in June 2027 and am actively seeking opportunities in industry, faculty positions, or postdoctoral research. Please feel free to contact me at <a href="mailto:lilhzx@csu.edu.cn" style="color: inherit;">lilhzx@csu.edu.cn</a> / <a href="mailto:lilzxhuang@gmail.com" style="color: inherit;">lilzxhuang@gmail.com</a> if you have a suitable opportunity.</strong></p>
 
-News
-------
-- 🎉 [Nov 2026] Our paper, "OCAP: Online Collaborative Adapter Personalization for Personalized Mental-Health Monitoring", is accepted by <i>KDD 2027 AI4Science Track</i> as an <strong>Oral Presentation (6.1% of all submissions)</strong>. Congratulations to all co-authors!
-- 🎉 [Sep 2026] Our paper, "FashionStylist: An Expert Knowledge-enhanced Multimodal Dataset for Fashion Understanding", is accepted by <i>SIGIR-AP 2026</i>. Congrats to all co-authors! <a href="https://arxiv.org/abs/2604.09249">[arXiv]</a>
-- 🎉 [Apr 2026] Our paper, "iTIMO: An LLM-empowered Synthesis Dataset for Travel Itinerary Modification", is accepted by <i>SIGIR 2026 Resource Track</i>. Congratulations to all co-authors!
-- 🎉 [Jan 2026] Our paper, "Exploiting Hierarchical Category Information to Improve Next Point-of-Interest Recommendation via Hyperbolic Graph Convolution Network", is online at <i>IEEE Transactions on Systems, Man, and Cybernetics: Systems</i> (TSMC-S). Congratulations to all co-authors!
-- 🎉 [Dec 2025] Our paper, "Improving Road Trip Attraction Recommendations by Resolving Conflicting Preferences: A Knowledge-Enhanced Non-Compensatory Group Decision Approach", is accepted by <i>International Journal of Intelligent Computing and Cybernetics</i> (IJICC). Congratulations to all co-authors!
-- 🎉 [Nov 2025] Our paper, "Collaborative Allocation Optimization of Production Line Workers Based on Multidimensional Feature Measurement and E-CARGO Model", is accepted by <i>IEEE Transactions on Computational Social Systems</i> (TCSS). Congratulations to all co-authors!
-- 🎉 [Oct 2024] Our paper, "Collaborative Route Planning of Road Trips in Regional Central Cities of China: An Approach Based on E-CARGO Model", is accepted by <i>IEEE Transactions on Computational Social Systems</i> (TCSS). Congratulations to all co-authors!
-- 🎉 [May 2024] Our paper, "Route Planning of City Road Trips Meeting Subjective Preferences and Objective Constraints", is accepted by <i>IEEE International Conference on Computer Supported Cooperative Work in Design</i> (CSCWD). Congratulations to all co-authors!
-- 🎉 [Dec 2023] Our paper, "Predicting Examinee Performance Based on a Fuzzy Cloud Cognitive Diagnosis Framework in E-Learning Environment", is accepted by <i>Soft Computing</i> (Soft Comput.). Congratulations to all co-authors!
-- 🎉 [Oct 2023] Our paper, "Predicting Student Performance in Future Exams via Neutrosophic Cognitive Diagnosis in Personalized E-Learning Environment", is accepted by <i>IEEE Transactions on Learning Technologies</i> (TLT). Congratulations to all co-authors!
-- 🎉 [Apr 2023] Our paper, "Universal Optimization Framework: Leader-Centered Learning Team Formation Based on Fuzzy Evaluations of Learners and E-CARGO", is accepted by <i>IEEE Systems, Man, and Cybernetics Magazine</i> (IEEE SMC Mag.). Congratulations to all co-authors!
-- 🎉 [Dec 2022] Our paper, "Collaborative Optimization of Learning Team Formation Based on Multidimensional Characteristics and Constraints Modeling: A Team Leader-Centered Approach via E-CARGO", is accepted by <i>IEEE Transactions on Computational Social Systems</i> (TCSS). Congratulations to all co-authors!
-- 🎉 [Sep 2022] Our paper, "Software Crowdsourcing Task Allocation Supporting Fuzzy Ability Measurement and Role Coordination (支持工人能力模糊度量和角色协同的软件众包任务分配)", is accepted by <i>Journal of National University of Defense Technology</i> (J. Natl. Univ. Def. Technol.; 国防科技大学学报). Congratulations to all co-authors!
-- 🎉 [May 2022] Our paper, "Exercise Recommendation Based on Cognitive Diagnosis and Neutrosophic Set", is accepted by <i>IEEE International Conference on Computer Supported Cooperative Work in Design</i> (CSCWD). Congratulations to all co-authors!
-- 🎉 [May 2022] Our paper, "Collaborative Prediction of Examinee Performance Based on Fuzzy Cognitive Diagnosis via Cloud Model", is accepted by <i>IEEE International Conference on Computer Supported Cooperative Work in Design</i> (CSCWD). Congratulations to all co-authors!
-- 🎉 [Mar 2022] Our paper, "Cloud Service Recommendation for Small and Medium-Sized Enterprises: A Context-Aware Group Decision Making Approach", is accepted by <i>Journal of Intelligent & Fuzzy Systems</i> (J. Intell. Fuzzy Syst.). Congratulations to all co-authors!
-- 🎉 [Jun 2021] Our paper, "Survey of Cognitive Diagnosis Models for Personalized Learning (面向个性化学习的认知诊断模型及其应用综述)", is accepted by <i>Computer Technology and Development</i> (计算机技术与发展). Congratulations to all co-authors!
-
-Professional Services
-------
-Reviewer: The Web Conference (WWW) 2026; TCSS (IEEE Transactions on Computational Social Systems); SMC-S (IEEE Transactions on Systems, Man, Cybernetics: Systems); AAAI UC; CSCWD.
-
-
 Education
 ------
 <div class="education-list">
@@ -88,3 +63,27 @@ Education
     </div>
   </article>
 </div>
+
+News
+------
+- 🎉 [Nov 2026] Our paper, "OCAP: Online Collaborative Adapter Personalization for Personalized Mental-Health Monitoring", is accepted by <i>KDD 2027 AI4Science Track</i> as an <strong>Oral Presentation (6.1% of all submissions)</strong>. Congratulations to all co-authors!
+- 🎉 [Sep 2026] Our paper, "FashionStylist: An Expert Knowledge-enhanced Multimodal Dataset for Fashion Understanding", is accepted by <i>SIGIR-AP 2026</i>. Congrats to all co-authors! <a href="https://arxiv.org/abs/2604.09249">[arXiv]</a>
+- 🎉 [Apr 2026] Our paper, "iTIMO: An LLM-empowered Synthesis Dataset for Travel Itinerary Modification", is accepted by <i>SIGIR 2026 Resource Track</i>. Congratulations to all co-authors!
+- 🎉 [Jan 2026] Our paper, "Exploiting Hierarchical Category Information to Improve Next Point-of-Interest Recommendation via Hyperbolic Graph Convolution Network", is online at <i>IEEE Transactions on Systems, Man, and Cybernetics: Systems</i> (TSMC-S). Congratulations to all co-authors!
+- 🎉 [Dec 2025] Our paper, "Improving Road Trip Attraction Recommendations by Resolving Conflicting Preferences: A Knowledge-Enhanced Non-Compensatory Group Decision Approach", is accepted by <i>International Journal of Intelligent Computing and Cybernetics</i> (IJICC). Congratulations to all co-authors!
+- 🎉 [Nov 2025] Our paper, "Collaborative Allocation Optimization of Production Line Workers Based on Multidimensional Feature Measurement and E-CARGO Model", is accepted by <i>IEEE Transactions on Computational Social Systems</i> (TCSS). Congratulations to all co-authors!
+- 🎉 [Oct 2024] Our paper, "Collaborative Route Planning of Road Trips in Regional Central Cities of China: An Approach Based on E-CARGO Model", is accepted by <i>IEEE Transactions on Computational Social Systems</i> (TCSS). Congratulations to all co-authors!
+- 🎉 [May 2024] Our paper, "Route Planning of City Road Trips Meeting Subjective Preferences and Objective Constraints", is accepted by <i>IEEE International Conference on Computer Supported Cooperative Work in Design</i> (CSCWD). Congratulations to all co-authors!
+- 🎉 [Dec 2023] Our paper, "Predicting Examinee Performance Based on a Fuzzy Cloud Cognitive Diagnosis Framework in E-Learning Environment", is accepted by <i>Soft Computing</i> (Soft Comput.). Congratulations to all co-authors!
+- 🎉 [Oct 2023] Our paper, "Predicting Student Performance in Future Exams via Neutrosophic Cognitive Diagnosis in Personalized E-Learning Environment", is accepted by <i>IEEE Transactions on Learning Technologies</i> (TLT). Congratulations to all co-authors!
+- 🎉 [Apr 2023] Our paper, "Universal Optimization Framework: Leader-Centered Learning Team Formation Based on Fuzzy Evaluations of Learners and E-CARGO", is accepted by <i>IEEE Systems, Man, and Cybernetics Magazine</i> (IEEE SMC Mag.). Congratulations to all co-authors!
+- 🎉 [Dec 2022] Our paper, "Collaborative Optimization of Learning Team Formation Based on Multidimensional Characteristics and Constraints Modeling: A Team Leader-Centered Approach via E-CARGO", is accepted by <i>IEEE Transactions on Computational Social Systems</i> (TCSS). Congratulations to all co-authors!
+- 🎉 [Sep 2022] Our paper, "Software Crowdsourcing Task Allocation Supporting Fuzzy Ability Measurement and Role Coordination (支持工人能力模糊度量和角色协同的软件众包任务分配)", is accepted by <i>Journal of National University of Defense Technology</i> (J. Natl. Univ. Def. Technol.; 国防科技大学学报). Congratulations to all co-authors!
+- 🎉 [May 2022] Our paper, "Exercise Recommendation Based on Cognitive Diagnosis and Neutrosophic Set", is accepted by <i>IEEE International Conference on Computer Supported Cooperative Work in Design</i> (CSCWD). Congratulations to all co-authors!
+- 🎉 [May 2022] Our paper, "Collaborative Prediction of Examinee Performance Based on Fuzzy Cognitive Diagnosis via Cloud Model", is accepted by <i>IEEE International Conference on Computer Supported Cooperative Work in Design</i> (CSCWD). Congratulations to all co-authors!
+- 🎉 [Mar 2022] Our paper, "Cloud Service Recommendation for Small and Medium-Sized Enterprises: A Context-Aware Group Decision Making Approach", is accepted by <i>Journal of Intelligent & Fuzzy Systems</i> (J. Intell. Fuzzy Syst.). Congratulations to all co-authors!
+- 🎉 [Jun 2021] Our paper, "Survey of Cognitive Diagnosis Models for Personalized Learning (面向个性化学习的认知诊断模型及其应用综述)", is accepted by <i>Computer Technology and Development</i> (计算机技术与发展). Congratulations to all co-authors!
+
+Professional Services
+------
+Reviewer: The Web Conference (WWW) 2026; TCSS (IEEE Transactions on Computational Social Systems); SMC-S (IEEE Transactions on Systems, Man, Cybernetics: Systems); AAAI UC; CSCWD.
