@@ -23,7 +23,7 @@ Education
         <h3>Singapore University of Technology and Design</h3>
         <span class="education-date">Aug 2025 – Present</span>
       </div>
-      <p class="education-degree">Visiting Ph.D. Student · Information Systems Technology and Design</p>
+      <p class="education-degree">Visiting Ph.D. Student in Information Systems Technology and Design</p>
       <p>CSC-funded visiting student</p>
       <p>Supervisors: <a href="https://sites.google.com/view/zhusun/home">Prof. Zhu Sun</a> and <a href="https://mysbupt.github.io">Prof. Yunshan Ma</a></p>
     </div>
@@ -35,7 +35,7 @@ Education
         <h3>Central South University</h3>
         <span class="education-date">Sep 2022 – Jun 2027 (expected)</span>
       </div>
-      <p class="education-degree">Ph.D. · Management Science and Engineering</p>
+      <p class="education-degree">Ph.D. in Management Science and Engineering</p>
       <p>School of Business</p>
       <p>Supervisor: <a href="https://scholar.google.com.hk/citations?user=B1gqJ8UAAAAJ&amp;hl=zh-CN&amp;oi=sra">Prof. Hongyu Zhang</a></p>
     </div>
@@ -47,7 +47,7 @@ Education
         <h3>Hunan Normal University</h3>
         <span class="education-date">Sep 2019 – Jul 2022</span>
       </div>
-      <p class="education-degree">M.S. · Software Engineering</p>
+      <p class="education-degree">M.S. in Software Engineering</p>
       <p>College of Information Science and Engineering</p>
       <p>Supervisor: <a href="https://ieeexplore.ieee.org/author/37086381334">Prof. Hua Ma</a></p>
     </div>
@@ -59,7 +59,7 @@ Education
         <h3>Hangzhou Dianzi University</h3>
         <span class="education-date">Sep 2013 – Jul 2017</span>
       </div>
-      <p class="education-degree">B.S. · Integrated Circuit Design and Integrated Systems</p>
+      <p class="education-degree">B.S. in Integrated Circuit Design and Integrated Systems</p>
     </div>
   </article>
 </div>
