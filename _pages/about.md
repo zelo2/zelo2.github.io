@@ -33,7 +33,7 @@ Education
     <div class="education-details">
       <div class="education-heading">
         <h3>Singapore University of Technology and Design</h3>
-        <span class="education-date">Aug 2025 – Nov 20, 2026</span>
+        <span class="education-date">Aug 2025 – Nov 2026</span>
       </div>
       <p class="education-degree">Visiting Ph.D. Student in Information Systems Technology and Design</p>
       <p>CSC-funded visiting student</p>
