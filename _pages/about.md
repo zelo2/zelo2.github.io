@@ -42,19 +42,19 @@ Education
 ------
 <div class="education-list">
   <article class="education-entry">
-    <div class="education-logo"><img src="{{ '/images/education/sutd.png' | relative_url }}" alt="Singapore University of Technology and Design logo" width="112" height="88" loading="lazy"></div>
+    <img class="education-mark" src="{{ '/images/education/sutd-mark.png' | relative_url }}" alt="" width="48" height="48" loading="lazy">
     <div class="education-details">
       <div class="education-heading">
         <h3>Singapore University of Technology and Design</h3>
         <span class="education-date">Aug 2025 – Present</span>
       </div>
-      <p class="education-degree">Visiting Ph.D. · Information Systems Technology and Design</p>
+      <p class="education-degree">Visiting Ph.D. Student · Information Systems Technology and Design</p>
       <p>CSC-funded visiting student</p>
       <p>Supervisors: <a href="https://sites.google.com/view/zhusun/home">Prof. Zhu Sun</a> and <a href="https://mysbupt.github.io">Prof. Yunshan Ma</a></p>
     </div>
   </article>
   <article class="education-entry">
-    <div class="education-logo"><img src="{{ '/images/education/csu.png' | relative_url }}" alt="Central South University logo" width="112" height="88" loading="lazy"></div>
+    <img class="education-mark" src="{{ '/images/education/csu-seal.png' | relative_url }}" alt="" width="48" height="48" loading="lazy">
     <div class="education-details">
       <div class="education-heading">
         <h3>Central South University</h3>
@@ -66,7 +66,7 @@ Education
     </div>
   </article>
   <article class="education-entry">
-    <div class="education-logo"><img src="{{ '/images/education/hunnu.png' | relative_url }}" alt="Hunan Normal University logo" width="112" height="88" loading="lazy"></div>
+    <img class="education-mark" src="{{ '/images/education/hunnu-seal.png' | relative_url }}" alt="" width="48" height="48" loading="lazy">
     <div class="education-details">
       <div class="education-heading">
         <h3>Hunan Normal University</h3>
@@ -78,7 +78,7 @@ Education
     </div>
   </article>
   <article class="education-entry">
-    <div class="education-logo"><img src="{{ '/images/education/hdu.svg' | relative_url }}" alt="Hangzhou Dianzi University logo" width="112" height="88" loading="lazy"></div>
+    <img class="education-mark" src="{{ '/images/education/hdu-seal.svg' | relative_url }}" alt="" width="48" height="48" loading="lazy">
     <div class="education-details">
       <div class="education-heading">
         <h3>Hangzhou Dianzi University</h3>
