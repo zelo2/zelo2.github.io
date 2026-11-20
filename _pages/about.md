@@ -5,6 +5,10 @@ author_profile: true
 redirect_from: 
   - /about/
   - /about.html
+  - /cv/
+  - /cv-json/
+  - /resume
+  - /resume-json
 ---
 
 I am a Ph.D. student at the School of Business, Central South University. My current research focuses on **Large Language Models (LLMs) and Agents**, particularly post-training and decision-making under complex constraints. During my Ph.D., I have studied tourism recommender systems. My master's research focused on educational data mining.

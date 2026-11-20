@@ -9,39 +9,14 @@ author_profile: true
   <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
 {% endif %}
 
-{% include base_path %}
-
-<!-- Render publications as plain citations grouped by category -->
-{% if site.publication_category %}
-  {% for category in site.publication_category %}
-    {% assign title_shown = false %}
-    {% for post in site.publications reversed %}
-      {% if post.category != category[0] %}
-        {% continue %}
-      {% endif %}
-      {% unless title_shown %}
-        <h2>{{ category[1].title }}</h2><hr />
-        {% assign title_shown = true %}
-      {% endunless %}
-      {% if post.citation %}
-        <p>
-          {{ post.citation | markdownify | remove: "<p>" | remove: "</p>" }}
-          {% if post.paperurl %} <a href="{{ post.paperurl }}">[paper]</a>{% endif %}
-          {% if post.codeurl %} <a href="{{ post.codeurl }}">[code]</a>{% endif %}
-          {% if post.bibtexurl %} <a href="{{ post.bibtexurl }}">BibTeX</a>{% endif %}
-        </p>
-      {% endif %}
-    {% endfor %}
-  {% endfor %}
-{% else %}
-  {% for post in site.publications reversed %}
-    {% if post.citation %}
-      <p>
-        {{ post.citation | markdownify | remove: "<p>" | remove: "</p>" }}
-        {% if post.paperurl %} <a href="{{ post.paperurl }}">[paper]</a>{% endif %}
-        {% if post.codeurl %} <a href="{{ post.codeurl }}">[code]</a>{% endif %}
-        {% if post.bibtexurl %} <a href="{{ post.bibtexurl }}">BibTeX</a>{% endif %}
-      </p>
-    {% endif %}
-  {% endfor %}
-{% endif %}
+{% assign publications_by_date = site.publications | sort: "date" %}
+{% for post in publications_by_date reversed %}
+  {% if post.citation %}
+    <p>
+      {{ post.citation | markdownify | remove: "<p>" | remove: "</p>" }}
+      {% if post.paperurl %} <a href="{{ post.paperurl }}">[paper]</a>{% endif %}
+      {% if post.codeurl %} <a href="{{ post.codeurl }}">[code]</a>{% endif %}
+      {% if post.bibtexurl %} <a href="{{ post.bibtexurl }}">BibTeX</a>{% endif %}
+    </p>
+  {% endif %}
+{% endfor %}
