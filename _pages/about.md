@@ -11,7 +11,7 @@ I am a Ph.D. student at the School of Business, Central South University. My cur
 
 Currently, I am a CSC-funded visting student co-supervised by [Prof. Zhu Sun](https://sites.google.com/view/zhusun/home) from Information Systems Technology and Design (ISTD), Singapore University of Technology and Design (SUTD), and [Prof. Yunshan Ma](https://mysbupt.github.io) from School of Computing and Information Systems, Singapore Management University. I am very fourtunate to be supervised by [Prof. Hongyu Zhang](https://scholar.google.com.hk/citations?user=B1gqJ8UAAAAJ&hl=zh-CN&oi=sra) from School of Business, Central South University. Previously, I obtained the M.S degree from College of Information Science and Engineering, Hunan Normal University, under the supervision of [Prof. Hua Ma](https://ieeexplore.ieee.org/author/37086381334) in 2022. I received the B.S. degree in integrated circuit design and integrated systems from Hangzhou Dianzi University, Hangzhou, China, in 2017.
 
-<p style="color: red;"><strong>I expect to graduate in June 2027 and am actively seeking opportunities in industry, faculty positions, or postdoctoral research. Please feel free to contact me if you have a suitable opportunity.</strong></p>
+<p style="color: red;"><strong>I expect to graduate in June 2027 and am actively seeking opportunities in industry, faculty positions, or postdoctoral research. Please feel free to contact me at <a href="mailto:lilhzx@csu.edu.cn" style="color: inherit;">lilhzx@csu.edu.cn</a> / <a href="mailto:lilzxhuang@gmail.com" style="color: inherit;">lilzxhuang@gmail.com</a> if you have a suitable opportunity.</strong></p>
 
 News
 ------
