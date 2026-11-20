@@ -38,12 +38,53 @@ Professional Services
 Reviewer: The Web Conference (WWW) 2026; TCSS (IEEE Transactions on Computational Social Systems); SMC-S (IEEE Transactions on Systems, Man, Cybernetics: Systems); AAAI UC; CSCWD.
 
 
-Education Background
+Education
 ------
-2025.8-present: Visiting Ph.D in Information Systems Technology and Design, Singapore University of Technology and Design (Supervisors: [Prof. Zhu Sun](https://sites.google.com/view/zhusun/home) and [Prof. Yunshan Ma](https://mysbupt.github.io))
-
-2022.9-present: Ph.D in Management Science and Engineering, School of Business, Central South University (Supervisor: [Prof. Hongyu Zhang](https://scholar.google.com.hk/citations?user=B1gqJ8UAAAAJ&hl=zh-CN&oi=sra))
-
-2019.9-2022.7: M.S in Soft Engineering, College of Information Science and Engineering, Hunan Normal University (Supervisor: [Prof. Hua Ma](https://ieeexplore.ieee.org/author/37086381334))
-
-2013.9-2017.7: B.S in Integrated Circuit Design and Integrated Systems, Hangzhou Dianzi University
+<div class="education-list">
+  <article class="education-entry">
+    <div class="education-logo"><img src="{{ '/images/education/sutd.png' | relative_url }}" alt="Singapore University of Technology and Design logo" width="112" height="88" loading="lazy"></div>
+    <div class="education-details">
+      <div class="education-heading">
+        <h3>Singapore University of Technology and Design</h3>
+        <span class="education-date">Aug 2025 – Present</span>
+      </div>
+      <p class="education-degree">Visiting Ph.D. · Information Systems Technology and Design</p>
+      <p>CSC-funded visiting student</p>
+      <p>Supervisors: <a href="https://sites.google.com/view/zhusun/home">Prof. Zhu Sun</a> and <a href="https://mysbupt.github.io">Prof. Yunshan Ma</a></p>
+    </div>
+  </article>
+  <article class="education-entry">
+    <div class="education-logo"><img src="{{ '/images/education/csu.png' | relative_url }}" alt="Central South University logo" width="112" height="88" loading="lazy"></div>
+    <div class="education-details">
+      <div class="education-heading">
+        <h3>Central South University</h3>
+        <span class="education-date">Sep 2022 – Jun 2027 (expected)</span>
+      </div>
+      <p class="education-degree">Ph.D. · Management Science and Engineering</p>
+      <p>School of Business</p>
+      <p>Supervisor: <a href="https://scholar.google.com.hk/citations?user=B1gqJ8UAAAAJ&amp;hl=zh-CN&amp;oi=sra">Prof. Hongyu Zhang</a></p>
+    </div>
+  </article>
+  <article class="education-entry">
+    <div class="education-logo"><img src="{{ '/images/education/hunnu.png' | relative_url }}" alt="Hunan Normal University logo" width="112" height="88" loading="lazy"></div>
+    <div class="education-details">
+      <div class="education-heading">
+        <h3>Hunan Normal University</h3>
+        <span class="education-date">Sep 2019 – Jul 2022</span>
+      </div>
+      <p class="education-degree">M.S. · Software Engineering</p>
+      <p>College of Information Science and Engineering</p>
+      <p>Supervisor: <a href="https://ieeexplore.ieee.org/author/37086381334">Prof. Hua Ma</a></p>
+    </div>
+  </article>
+  <article class="education-entry">
+    <div class="education-logo"><img src="{{ '/images/education/hdu.svg' | relative_url }}" alt="Hangzhou Dianzi University logo" width="112" height="88" loading="lazy"></div>
+    <div class="education-details">
+      <div class="education-heading">
+        <h3>Hangzhou Dianzi University</h3>
+        <span class="education-date">Sep 2013 – Jul 2017</span>
+      </div>
+      <p class="education-degree">B.S. · Integrated Circuit Design and Integrated Systems</p>
+    </div>
+  </article>
+</div>
